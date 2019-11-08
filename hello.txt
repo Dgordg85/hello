@@ -1,3 +1,2 @@
-Change text
-TEST
+﻿TEST
 Добавил строчку
